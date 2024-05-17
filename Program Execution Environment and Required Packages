@@ -5,7 +5,6 @@ https://www.anaconda.com/download
 Pythonのバージョンは　Python 3.9.12　を使用している
 
 Scikit-learnのインストール
-Scikit-learnは、Pythonのオープンソース機械学習ライブラリであり、分類、回帰、クラスタリング、次元削減などの多様な機械学習タスクを実行するためのツールを提供します。
 
 pip install scikit-learn
 
