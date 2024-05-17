@@ -1,0 +1,24 @@
+Python実行環境の構築
+実行環境はAnacondaプロンプトを利用する 
+https://www.anaconda.com/download
+
+Pythonのバージョンは　Python 3.9.12　を使用している
+
+Scikit-learnのインストール
+Scikit-learnは、Pythonのオープンソース機械学習ライブラリであり、分類、回帰、クラスタリング、次元削減などの多様な機械学習タスクを実行するためのツールを提供します。
+
+pip install scikit-learn
+
+Anaconda環境にて上記コマンドを打ち込めばインストール可能
+
+pubchemモジュールのインストール
+Anaconda環境にて下記コマンドを実行するとインストール可能
+pip install pubchempy
+
+使用例
+https://qiita.com/ottantachinque/items/b9986e676c51a8e2805b
+https://future-chem.com/pub-chem-py/
+https://zenn.dev/poclabweb/books/chemoinfomatics_beginner/viewer/lesson03_00_pubchempy
+
+Pandasのインストール
+pip install pandas
